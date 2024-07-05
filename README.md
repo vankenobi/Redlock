@@ -1,3 +1,5 @@
+![Example Image](/image.png)
+
 Redlock Restaurant Simulation
 
 In this .NET Core console app, I aim to explain why we need to use Redis lock. If you review the code, you will see that I wrote two functions: Main and MakeReservation.
